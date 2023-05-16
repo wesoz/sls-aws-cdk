@@ -24,6 +24,7 @@
     "@types/uuid": "^9.0.1",
     "aws-cdk-lib": "2.78.0",
     "aws-sdk": "^2.1375.0",
+    "aws-xray-sdk": "^3.5.0",
     "constructs": "^10.0.0",
     "source-map-support": "^0.5.21"
   }
